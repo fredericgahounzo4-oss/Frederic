@@ -1,0 +1,8 @@
+button {
+	color: black;
+	background: skyblue;
+	border-radius: 50px;
+	border: 1px solid white;
+	height: 40px;
+	width: 150px;
+}
