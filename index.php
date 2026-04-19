@@ -48,7 +48,7 @@
   <div class="social-links text-center">
     <a href="https://x.com/FREDERICGA18876?s=09" class="twitter"><i class="bi bi-twitter-x"></i></a>
     <a href="https://www.facebook.com/koffi.frederic.4356?locale=fr_FR" class="facebook"><i class="bi bi-facebook"></i></a>
-    <a href="https://www.instagram.com/gahounzokoffifrederic/" class="instagram"><i class="bi bi-instagram"></i></a>
+    <a href="https://www.instagram.com/frederic_le_developpeur?igsh=MTRmNGFrczhuMnNlMw==" class="instagram"><i class="bi bi-instagram"></i></a>
     <a href="https://web.telegram.org/k/" class="google-plus"><i class="bi bi-skype"></i></a>
     <a href="https://www.linkedin.com/in/frederic-gahounzo-541650350/" class="linkedin"><i class="bi bi-linkedin"></i></a>
     </div> 
